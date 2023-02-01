@@ -1,4 +1,10 @@
 .nav {
     display: flex;
     flex-direction: row;
+    margin-bottom: 4rem;
+}
+
+.navItem {
+    margin-left: 2rem;
+    list-style: none;
 }
