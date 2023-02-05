@@ -1,3 +1,6 @@
 export const About = () => {
-return <>amm skellars</>
+return <div className="page">amm skellars
+
+<div>mia soza, hannah dorfman, ally baker, bea troxel, camille faulkner, rita pfeiffer, ryan wood</div>
+</div>
 }
